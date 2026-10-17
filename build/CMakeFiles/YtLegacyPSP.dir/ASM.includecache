@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/endo/Yt-legacy-PSP/src/compat/av_imports.S
+pspimport.s
+/home/endo/Yt-legacy-PSP/src/compat/pspimport.s
+
+/home/endo/pspdev/psp/sdk/include/pspimport.s
+

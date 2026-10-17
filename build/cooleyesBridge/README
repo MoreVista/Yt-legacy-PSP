@@ -1,0 +1,4 @@
+cooleyesBridge: kernel helper that calls sceMeBootStart for the Media Engine video modes.
+Copied unmodified from https://github.com/LiamJSP/psp-pmplayer-ultraviolet (commit in UPSTREAM_COMMIT).
+Original author: cooleyes (2008). License: GPL (see COPYING and the file headers).
+Build: make -C src PSPSDK=$PSPDEV/psp/sdk

@@ -1,0 +1,4 @@
+/home/endo/Yt-legacy-PSP/build/CMakeFiles/YtLegacyPSP.dir
+/home/endo/Yt-legacy-PSP/build/CMakeFiles/cooleyesBridge.dir
+/home/endo/Yt-legacy-PSP/build/CMakeFiles/edit_cache.dir
+/home/endo/Yt-legacy-PSP/build/CMakeFiles/rebuild_cache.dir
